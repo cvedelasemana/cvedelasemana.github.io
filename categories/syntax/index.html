@@ -122,15 +122,16 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">CVE-2026-0000
+    <h2 class="entry-hint-parent">CVE-2024-23334 - aiohttp Path Traversal
     </h2>
   </header>
   <div class="entry-content">
-    <p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+    <p> Versiones afectadas: &gt;1.0.5 Versiones corregidas: &lt;3.9.2 Resumen Una mala configuración en un al apuntar a recursos estáticos en aiohttp cuando se emplea como servidor web puede provocar un Path Traversal pudiendo leer archivos internos del sistema.
+Revisión Cuando un servidor emplea aiohttp como servidor web. Debemos configurar rutas estáticas donde es necesario indicar la ruta raíz de los archivos estáticos (como por ejemplo /static/). Si además empleamos follow_symlinks y le indicamos True esto hará que no compruebe que la ruta apuntada se encuentra dentro del directorio raíz de los archivos estáticos.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2026-01-11 00:00:00 +0000 UTC'>January 11, 2026</span>&nbsp;·&nbsp;<span>Pylon</span></footer>
-  <a class="entry-link" aria-label="post link to CVE-2026-0000" href="https://cvedelasemana.github.io/posts/cve-2026-0000/"></a>
+  <footer class="entry-footer"></footer>
+  <a class="entry-link" aria-label="post link to CVE-2024-23334 - aiohttp Path Traversal" href="https://cvedelasemana.github.io/posts/cve-2024-23334/"></a>
 </article>
     </main>
     

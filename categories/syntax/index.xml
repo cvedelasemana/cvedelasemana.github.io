@@ -6,14 +6,21 @@
     <description>Recent content in Syntax on CVE De La Semana</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cvedelasemana.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CVE-2026-0000</title>
-      <link>https://cvedelasemana.github.io/posts/cve-2026-0000/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cvedelasemana.github.io/posts/cve-2026-0000/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>CVE-2024-23334 - aiohttp Path Traversal</title>
+      <link>https://cvedelasemana.github.io/posts/cve-2024-23334/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvedelasemana.github.io/posts/cve-2024-23334/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Versiones afectadas: &amp;gt;1.0.5&lt;/li&gt;
+&lt;li&gt;Versiones corregidas: &amp;lt;3.9.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;resumen&#34;&gt;Resumen&lt;/h1&gt;
+&lt;p&gt;Una mala configuración en un al apuntar a recursos estáticos en &lt;code&gt;aiohttp&lt;/code&gt; cuando se emplea como servidor web puede provocar un Path Traversal pudiendo leer archivos internos del sistema.&lt;/p&gt;
+&lt;h1 id=&#34;revisión&#34;&gt;Revisión&lt;/h1&gt;
+&lt;p&gt;Cuando un servidor emplea &lt;code&gt;aiohttp&lt;/code&gt; como servidor web. Debemos configurar rutas estáticas donde es necesario indicar la ruta raíz de los archivos estáticos &lt;em&gt;(como por ejemplo /static/)&lt;/em&gt;. Si además empleamos &lt;code&gt;follow_symlinks&lt;/code&gt; y le indicamos &lt;code&gt;True&lt;/code&gt; esto hará que no compruebe que la ruta apuntada se encuentra dentro del directorio raíz de los archivos estáticos.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

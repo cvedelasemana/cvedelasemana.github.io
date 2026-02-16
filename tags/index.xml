@@ -6,34 +6,19 @@
     <description>Recent content in Tags on CVE De La Semana</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://cvedelasemana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lfi</title>
-      <link>https://cvedelasemana.github.io/tags/lfi/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cvedelasemana.github.io/tags/lfi/</guid>
+      <title>Aiohttp</title>
+      <link>https://cvedelasemana.github.io/tags/aiohttp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvedelasemana.github.io/tags/aiohttp/</guid>
       <description></description>
     </item>
     <item>
-      <title>Php</title>
-      <link>https://cvedelasemana.github.io/tags/php/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cvedelasemana.github.io/tags/php/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rce</title>
-      <link>https://cvedelasemana.github.io/tags/rce/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cvedelasemana.github.io/tags/rce/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Xss</title>
-      <link>https://cvedelasemana.github.io/tags/xss/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cvedelasemana.github.io/tags/xss/</guid>
+      <title>Pathtraversal</title>
+      <link>https://cvedelasemana.github.io/tags/pathtraversal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cvedelasemana.github.io/tags/pathtraversal/</guid>
       <description></description>
     </item>
   </channel>

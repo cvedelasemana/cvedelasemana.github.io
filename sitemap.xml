@@ -3,38 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://cvedelasemana.github.io/categories/2026/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cvedelasemana.github.io/tags/aiohttp/</loc>
   </url><url>
     <loc>https://cvedelasemana.github.io/categories/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cvedelasemana.github.io/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cvedelasemana.github.io/posts/cve-2026-0000/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://cvedelasemana.github.io/posts/cve-2024-23334/</loc>
   </url><url>
-    <loc>https://cvedelasemana.github.io/tags/lfi/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cvedelasemana.github.io/tags/php/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
+    <loc>https://cvedelasemana.github.io/tags/pathtraversal/</loc>
   </url><url>
     <loc>https://cvedelasemana.github.io/posts/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cvedelasemana.github.io/tags/rce/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cvedelasemana.github.io/categories/syntax/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cvedelasemana.github.io/tags/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cvedelasemana.github.io/tags/xss/</loc>
-    <lastmod>2026-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cvedelasemana.github.io/search/</loc>
+  </url><url>
+    <loc>https://cvedelasemana.github.io/categories/syntax/</loc>
+  </url><url>
+    <loc>https://cvedelasemana.github.io/tags/</loc>
   </url>
 </urlset>
