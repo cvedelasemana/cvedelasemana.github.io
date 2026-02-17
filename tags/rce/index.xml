@@ -2,18 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rce on CVE De La Semana</title>
-    <link>https://cvedelasemana.github.io/tags/rce/</link>
+    <link>http://localhost:1313/tags/rce/</link>
     <description>Recent content in Rce on CVE De La Semana</description>
     <generator>Hugo -- 0.155.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cvedelasemana.github.io/tags/rce/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/rce/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CVE-2026-0000</title>
-      <link>https://cvedelasemana.github.io/posts/cve-2026-0000/</link>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://cvedelasemana.github.io/posts/cve-2026-0000/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <title>CVE-2024-36401</title>
+      <link>http://localhost:1313/posts/cve-2024-36401/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cve-2024-36401/</guid>
+      <description>&lt;h1 id=&#34;qué-es-geoserver&#34;&gt;¿Qué es GeoServer?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sonicwall.com/blog/geoserver-rce-vulnerability-cve-2024-36401-being-exploited-in-the-wild&#34;&gt;1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/vulhub/vulhub/blob/master/geoserver/CVE-2024-36401/README.md&#34;&gt;2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.vicarius.io/vsociety/posts/geoserver-rce-cve-2024-36401&#34;&gt;3&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
